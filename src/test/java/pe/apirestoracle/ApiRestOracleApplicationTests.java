@@ -5,8 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import pe.apirestoracle.dao.AccesosDao;
-import pe.apirestoracle.dao.UsuarioDao;
+import pe.examen.dao.AccesosDao;
+import pe.examen.dao.UsuarioDao;
 
 @SpringBootTest
 class ApiRestOracleApplicationTests {
